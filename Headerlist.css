@@ -1,0 +1,9 @@
+/*css file for title Header*/
+
+.header {
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 80px;
+    margin-bottom: 90px;
+  }
